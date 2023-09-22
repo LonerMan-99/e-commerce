@@ -1,0 +1,16 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": ["react", "jsx-a11y", "import", "react-hooks"],
+  "rules": {
+    "react/no-children-prop": "off",
+    "no-console": "off",
+    "max-len": "off",
+    "react-hooks/rules-of-hooks": "error",
+    "react/jsx-filename-extension": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "comma-dangle": "off",
+    "import/no-unresolved": "off",
+    "jsx-a11y/href-no-hash": [0],
+    "react-app/jsx-a11y/href-no-hash": "off"
+  }
+}

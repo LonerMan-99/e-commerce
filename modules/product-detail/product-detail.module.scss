@@ -1,0 +1,15 @@
+.Product-detail {
+  max-width: 1200px;
+  margin: 0 auto;
+  &-thumbnail{
+    position: sticky !important;
+    height: fit-content;
+    top: 100px;
+  }
+  &-cost{
+    position: sticky !important;
+    height: fit-content;
+    top: 110px;
+   
+  }
+}

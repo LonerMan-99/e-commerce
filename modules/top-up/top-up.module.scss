@@ -1,0 +1,32 @@
+.Box {
+  &-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    @media (width < 1020px) {
+      flex-direction: column;
+      margin-bottom: 20px;
+      align-items: center;
+    }
+    @media (width < 640px) {
+      display: unset;
+    }
+  }
+
+  &-Content {
+    max-width: 596px;
+    @media (width < 1020px) {
+      margin-bottom: 20px;
+    }
+  }
+
+  &-label {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 10px;
+    @media (width < 520px) {
+      font-size: 18px;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+.Tabs-container {
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 578px;
+  @media(width < 1200px){
+    width: 100%;
+  }
+}
+
+.Tabs-borderless{
+  border-radius: 10px;
+  width: 468px;
+  @media(width < 1200px){
+    width: 100%;
+  }
+}

@@ -1,0 +1,221 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Dummy Product 1",
+    "description": "This is a dummy product for testing purposes.",
+    "price": 9.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "availability": true,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": "John",
+        "comment": "Great product!",
+        "rating": 5
+      },
+      {
+        "user": "Emily",
+        "comment": "Average quality.",
+        "rating": 3
+      }
+    ],
+    "features": ["Feature 1", "Feature 2", "Feature 3"]
+  },
+  {
+    "product_id": "P002",
+    "name": "Dummy Product 2",
+    "description": "This is another dummy product for testing purposes.",
+    "price": 19.99,
+    "currency": "USD",
+    "category": "Home & Kitchen",
+    "availability": true,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "user": "Sarah",
+        "comment": "Decent product for the price.",
+        "rating": 4
+      },
+      {
+        "user": "David",
+        "comment": "Not as expected.",
+        "rating": 2
+      }
+    ],
+    "features": ["Feature 1", "Feature 2", "Feature 3"]
+  },
+  {
+    "product_id": "P003",
+    "name": "Dummy Product 3",
+    "description": "A dummy product with unique features.",
+    "price": 14.99,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "availability": false,
+    "rating": 4.2,
+    "reviews": [],
+    "features": ["Feature X", "Feature Y", "Feature Z"]
+  },
+  {
+    "product_id": "P004",
+    "name": "Dummy Product 4",
+    "description": "High-quality dummy product for professional use.",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "Office Supplies",
+    "availability": true,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "Alex",
+        "comment": "Excellent product! Worth the price.",
+        "rating": 5
+      },
+      {
+        "user": "Sophia",
+        "comment": "Great build quality.",
+        "rating": 4
+      }
+    ],
+    "features": ["Feature A", "Feature B", "Feature C"]
+  },
+  {
+    "product_id": "P005",
+    "name": "Dummy Product 5",
+    "description": "A budget-friendly dummy product option.",
+    "price": 6.99,
+    "currency": "USD",
+    "category": "Health & Personal Care",
+    "availability": true,
+    "rating": 3.2,
+    "reviews": [
+      {
+        "user": "Liam",
+        "comment": "Not bad for the price.",
+        "rating": 3
+      },
+      {
+        "user": "Olivia",
+        "comment": "Could be better.",
+        "rating": 2
+      }
+    ],
+    "features": ["Feature P", "Feature Q", "Feature R"]
+  },
+  {
+    "product_id": "P006",
+    "name": "Dummy Product 6",
+    "description": "A versatile dummy product for everyday use.",
+    "price": 29.99,
+    "currency": "USD",
+    "category": "Tools & Home Improvement",
+    "availability": true,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": "Mia",
+        "comment": "Love this product!",
+        "rating": 5
+      },
+      {
+        "user": "William",
+        "comment": "Great value for money.",
+        "rating": 4
+      }
+    ],
+    "features": ["Feature X", "Feature Y", "Feature Z"]
+  },
+  {
+    "product_id": "P007",
+    "name": "Dummy Product 7",
+    "description": "An eco-friendly dummy product made from sustainable materials.",
+    "price": 12.99,
+    "currency": "USD",
+    "category": "Home & Garden",
+    "availability": true,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "user": "Ethan",
+        "comment": "Great initiative!",
+        "rating": 5
+      },
+      {
+        "user": "Ava",
+        "comment": "Could improve packaging.",
+        "rating": 3
+      }
+    ],
+    "features": ["Feature A", "Feature B", "Feature C"]
+  },
+  {
+    "product_id": "P008",
+    "name": "Dummy Product 8",
+    "description": "A stylish dummy product for fashion enthusiasts.",
+    "price": 39.99,
+    "currency": "USD",
+    "category": "Clothing & Accessories",
+    "availability": true,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "Noah",
+        "comment": "Great design!",
+        "rating": 5
+      },
+      {
+        "user": "Isabella",
+        "comment": "Good quality fabric.",
+        "rating": 4
+      }
+    ],
+    "features": ["Feature M", "Feature N", "Feature O"]
+  },
+  {
+    "product_id": "P009",
+    "name": "Dummy Product 9",
+    "description": "A dummy product with advanced features.",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "availability": true,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "James",
+        "comment": "Impressive performance!",
+        "rating": 5
+      },
+      {
+        "user": "Sophia",
+        "comment": "Great features, but expensive.",
+        "rating": 4
+      }
+    ],
+    "features": ["Feature X", "Feature Y", "Feature Z"]
+  },
+  {
+    "product_id": "P010",
+    "name": "Dummy Product 10",
+    "description": "A dummy product for outdoor enthusiasts.",
+    "price": 59.99,
+    "currency": "USD",
+    "category": "Sports & Outdoors",
+    "availability": true,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "user": "Emma",
+        "comment": "Great for hiking!",
+        "rating": 5
+      },
+      {
+        "user": "Liam",
+        "comment": "Could be more durable.",
+        "rating": 3
+      }
+    ],
+    "features": ["Feature P", "Feature Q", "Feature R"]
+  }
+]

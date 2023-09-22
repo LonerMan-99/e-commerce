@@ -1,0 +1,24 @@
+.Regist-container {
+  text-align: center;
+  height: 100%;
+  padding: 20px 0;
+  .Regist-content {
+    text-align: left;
+    margin: 20px 0;
+    padding: 50px 0;
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    .Regist-mascot {
+      width: 360px;
+      height: 303px;
+      .Regist-text{
+        text-align: center;
+      }
+    }
+  }
+
+  .Regist-input{
+    margin-bottom: 10px;
+  }
+}
